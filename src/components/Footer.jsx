@@ -102,7 +102,7 @@ const Footer = () => {
                     className=""
                 >
                     <img 
-                    src="src/assets/logo.png" 
+                    src="https://drive.google.com/file/d/1EBhpFxYZY8Qbgcq7qIDR6sB-JUpTtoNr/view?usp=sharing" 
                     width={40}
                     height={40}
                     alt="Logo" 
