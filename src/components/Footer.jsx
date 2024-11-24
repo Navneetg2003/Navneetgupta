@@ -16,10 +16,6 @@ const sitemap = [
       href: '#work'
     },
     {
-      label: 'Reviews',
-      href: '#reviews'
-    },
-    {
       label: 'Contact me',
       href: '#contact'
     }
@@ -28,23 +24,19 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'https://github.com/Navneetg2003'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
+      href: 'https://www.linkedin.com/in/navneetgupta/'
     },
     {
       label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
+      href: 'https://x.com/navgupta1302'
     },
     {
-      label: 'Instagram',
-      href: 'https://www.instagram.com/codewithsadee'
-    },
-    {
-      label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
+      label: 'Leetcode',
+      href: 'https://leetcode.com/u/navneetg1302/'
     }
   ];
 
@@ -102,7 +94,7 @@ const Footer = () => {
                     className=""
                 >
                     <img 
-                    src="https://drive.google.com/file/d/1EBhpFxYZY8Qbgcq7qIDR6sB-JUpTtoNr/view?usp=sharing" 
+                    src="src\assets\logo.png" 
                     width={40}
                     height={40}
                     alt="Logo" 

@@ -13,7 +13,7 @@ const Hero = () => {
                 <div className="flex items-center gap-3">
                     <figure className="img-box w-9 h-9 rounded-lg">
                         <img 
-                          src="https://drive.google.com/file/d/1EBhpFxYZY8Qbgcq7qIDR6sB-JUpTtoNr/view?usp=drive_link" 
+                          src="src\assets\img.jpg" 
                           width={40}
                           height={40}
                           alt="Navneet Gupta Potrait"
@@ -37,6 +37,7 @@ const Hero = () => {
                     <ButtonPrimary 
                         label="Download CV"
                         icon="download"
+                        download="src\assets\Navneet Gupta_VITB.pdf"
                     />
 
                     <ButtonOutline 
